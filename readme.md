@@ -143,6 +143,6 @@ composer install
 ```
 3.- Correr el servidor previamente configuración con xampp o cualquier otro
 
-## C | Instalacion
+## D | Instalacion
 - Desplegar la base de datos con el nombre slimFramework
 - Desplegar el archivo Slim.json en Postman para el consumo de los servicios básicos (CRUD)
